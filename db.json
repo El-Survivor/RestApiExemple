@@ -1,9 +1,9 @@
 
 {
   "teachers": [
-    { "id": 1, "name": "Vilvens", "surname": "Claude", "Course": "Java" },
-    { "id": 2, "name": "Calmant", "surname": "Sebastien", "Course": "Java" },
-    { "id": 3, "name": "Mercenier", "surname": "Denis", "Course": "Unix" }
+    { "id": 1, "name": "Vilvens", "surname": "Claude", "course": "Java", "school": "Inpres", "city": "Unknown" },
+    { "id": 2, "name": "Calmant", "surname": "Sebastien", "course": "Java", "school": "Inpres", "city": "Unknown" },
+    { "id": 3, "name": "Mercenier", "surname": "Denis", "course": "Unix", "school": "Inpres", "city": "Unknown" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
