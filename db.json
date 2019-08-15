@@ -22,6 +22,14 @@
 			"course": "Unix",
 			"school": "Inpres",
 			"city": "Unknown"
+		},
+		{
+			"id": 4,
+			"name": "Charlet",
+			"surname": "Christophe",
+			"course": "Traitement du signal",
+			"school": "Inpres",
+			"city": "Inconnu"
 		}
 	],
 	"comments": [{
