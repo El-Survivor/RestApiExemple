@@ -1,5 +1,8 @@
 
 {
+  overview": [
+    { "name": "Inpres", "Sections": "Gestion, Système, Infographie", "Cycle": "3 ans" }
+  ],
   "teachers": [
     { "id": 1, "name": "Vilvens", "surname": "Claude", "course": "Java", "school": "Inpres", "city": "Unknown" },
     { "id": 2, "name": "Calmant", "surname": "Sebastien", "course": "Java", "school": "Inpres", "city": "Unknown" },
