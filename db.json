@@ -1,9 +1,4 @@
 {
-	"overview": {
-		"name": "Inpres",
-		"Sections": "Gestion, Système, Infographie",
-		"Cycle": "3 ans"
-	},
 	"teachers": [{
 			"id": 1,
 			"name": "Vilvens",
@@ -42,5 +37,10 @@
 	],
 	"profile": {
 		"name": "typicode"
+	},
+	"overview ": {
+		"name": "Inpres",
+		"Sections": "Gestion, Système, Infographie",
+		"Cycle": "3 ans"
 	}
 }
