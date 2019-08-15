@@ -1,18 +1,46 @@
-
 {
-  overview": [
-    { "name": "Inpres", "Sections": "Gestion, Système, Infographie", "Cycle": "3 ans" }
-  ],
-  "teachers": [
-    { "id": 1, "name": "Vilvens", "surname": "Claude", "course": "Java", "school": "Inpres", "city": "Unknown" },
-    { "id": 2, "name": "Calmant", "surname": "Sebastien", "course": "Java", "school": "Inpres", "city": "Unknown" },
-    { "id": 3, "name": "Mercenier", "surname": "Denis", "course": "Unix", "school": "Inpres", "city": "Unknown" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"overview ": {
+		"name": "Inpres",
+		"Sections": "Gestion, Système, Infographie",
+		"Cycle": "3 ans"
+	},
+	"teachers": [{
+			"id": 1,
+			"name": "Vilvens",
+			"surname": "Claude",
+			"course": "Java",
+			"school": "Inpres",
+			"city": "Unknown"
+		},
+		{
+			"id": 2,
+			"name": "Calmant",
+			"surname": "Sebastien",
+			"course": "Java",
+			"school": "Inpres",
+			"city": "Unknown"
+		},
+		{
+			"id": 3,
+			"name": "Mercenier",
+			"surname": "Denis",
+			"course": "Unix",
+			"school": "Inpres",
+			"city": "Unknown"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
