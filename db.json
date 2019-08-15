@@ -38,9 +38,9 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"overview ": {
+	"overview": {
 		"name": "Inpres",
-		"Sections": "Gestion, Système, Infographie",
-		"Cycle": "3 ans"
+		"sections": "Infographie Gestion Systèmes",
+		"cursus": "bachelier"
 	}
 }
